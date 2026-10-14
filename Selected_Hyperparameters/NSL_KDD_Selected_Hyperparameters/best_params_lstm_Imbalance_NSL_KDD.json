@@ -1,0 +1,8 @@
+{
+  "hidden_layer1_lstm": 112,
+  "hidden_layer2_lstm": 48,
+  "dropout_rate_lstm": 0.2,
+  "l2_reg_lstm": 5.277446173745144e-06,
+  "batch_size_lstm": 64,
+  "learning_rate_lstm": 0.001016300613837247
+}

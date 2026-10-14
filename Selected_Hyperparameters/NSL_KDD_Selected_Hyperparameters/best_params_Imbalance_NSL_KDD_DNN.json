@@ -1,0 +1,8 @@
+{
+  "hidden_layer1_dnn": 128,
+  "hidden_layer2_dnn": 48,
+  "dropout_rate_dnn": 0.2,
+  "batch_size_dnn": 128,
+  "learning_rate_dnn": 0.0005368432275353151,
+  "l2_reg": 1.0296637086981215e-06
+}

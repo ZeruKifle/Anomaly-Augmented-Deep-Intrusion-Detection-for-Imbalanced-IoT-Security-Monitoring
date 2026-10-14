@@ -1,0 +1,8 @@
+{
+  "hidden_layer1_gru": 128,
+  "hidden_layer2_gru": 32,
+  "dropout_rate_gru": 0.2,
+  "l2_reg": 1.048181213646715e-06,
+  "batch_size_gru": 256,
+  "learning_rate_gru": 0.0012082425189083989
+}
